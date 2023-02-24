@@ -1,5 +1,8 @@
 # Twilio Video Conference
 
+
+![Screenshot 2023-02-24 060808](https://user-images.githubusercontent.com/93249038/221063801-27978baf-3a80-47e2-8c9f-0d1b5e801741.png)
+
 You can fork this code to run a basic 1:1 video chat application. [Check out this blog post for a walkthrough of a serverless version of this app](https://www.twilio.com/blog/build-a-video-app-javascript-twilio-cli-quickly).
 
 Make sure to open the application in a separate tab - the video stream won't work in the preview environment!
